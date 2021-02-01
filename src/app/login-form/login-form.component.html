@@ -1,0 +1,31 @@
+<form *ngIf="!isLoggedIn" [formGroup]="loginForm" (ngSubmit)="f.form.valid && onSubmit()" #f="ngForm">
+  <p>
+    <mat-form-field appearance="standard">
+      <mat-hint *ngIf="f.submitted && isLoginFailed">{{ errorMessage }}</mat-hint>
+      <mat-label>Adresse email</mat-label>
+      <input type="text" matInput placeholder="" formControlName="username">
+      <mat-icon matSuffix class="icon-color">email</mat-icon>
+      <mat-hint *ngIf="loginForm.controls.username.errors?.required && f.submitted">Enter votre email</mat-hint>
+    </mat-form-field>
+  </p>
+  <p>
+    <mat-form-field appearance="standard">
+      <mat-label>Mot de passe</mat-label>
+      <input  type="password" matInput placeholder="" formControlName="password">
+      <mat-icon matSuffix class="icon-color">password</mat-icon>
+      <mat-hint *ngIf="loginForm.controls.password.errors?.required && f.submitted">Enter votre password</mat-hint>
+    </mat-form-field>
+  </p>
+  <p>
+    <button mat-button color="warn">Se connecter</button>
+    <mat-hint *ngIf="isLoggedIn">Roles: {{roles}}</mat-hint>
+  </p>
+  <!--<p>
+    <button mat-button color="warn" *ngIf="authStatus" (click)="onSignOut()">Se déconnecter</button>
+  </p>-->
+<p class="forget-password-title mt-5">
+  Mot de passe oublié ?
+</p>
+</form>
+
+

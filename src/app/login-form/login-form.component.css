@@ -1,0 +1,45 @@
+/* input color class */
+::ng-deep input.mat-input-element {
+  color: #53818C;
+}
+::ng-deep .mat-form-field-label{
+  color: #53818C !important;
+}
+/* Change label color on focused */
+::ng-deep .mat-form-field.mat-focused .mat-form-field-label  {
+  color: #F6C344 !important;
+}
+/* Change label color on focused */
+::ng-deep .mat-form-field.mat-focused .icon-color  {
+  color: #F6C344 !important;
+}
+/* underline border color on focused */
+::ng-deep .mat-focused .mat-form-field-underline .mat-form-field-ripple{
+  background-color: #F6C344 !important;
+}
+/* underline border color on focused */
+::ng-deep  .mat-form-field-underline{
+  color: #53818C !important;
+  background-color: #53818C !important;
+}
+::ng-deep .mat-form-field-ripple{
+  background-color: #53818C !important;
+}
+::ng-deep .mat-hint{
+  color: #ea0000 !important;
+}
+.mat-button{
+  color: #ffffff;
+  background-color:#53818C !important;
+  width:75% !important;
+}
+::ng-deep .mat-hint{
+  color:red;
+}
+::ng-deep .mat-button:hover{
+  color:white;
+  background-color:orange !important;
+}
+.forget-password-title{color: #53818C}
+.mat-form-field{width:75% !important;}
+.icon-color{color:#53818C !important;}

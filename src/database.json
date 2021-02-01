@@ -1,0 +1,246 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "penom": "Simone",
+      "nom": "Hettinger",
+      "email": "Joshuah_Rippin@hotmail.com",
+      "password": "password",
+      "telephone": "1-867-266-1376 x8243",
+      "profil": 0,
+      "role": "ROLE_ADMIN",
+      "archivage": true
+    },
+    {
+      "id": 2,
+      "penom": "Nat",
+      "nom": "Cruickshank",
+      "email": "Enrique38@gmail.com",
+      "password": "password",
+      "telephone": "1-381-400-6061",
+      "profil": 0,
+      "role": "ROLE_ADMIN",
+      "archivage": true
+    },
+    {
+      "id": 3,
+      "penom": "Wellington",
+      "nom": "Gusikowski",
+      "email": "Araceli.Brakus@hotmail.com",
+      "password": "password",
+      "telephone": "894.659.7542",
+      "profil": 0,
+      "role": "ROLE_ADMIN",
+      "archivage": false
+    },
+    {
+      "id": 4,
+      "penom": "Keyon",
+      "nom": "Fahey",
+      "email": "Aniya.Hermann@yahoo.com",
+      "password": "password",
+      "telephone": "1-640-217-1088 x4828",
+      "profil": 0,
+      "role": "ROLE_ADMIN",
+      "archivage": true
+    },
+    {
+      "id": 5,
+      "penom": "Neva",
+      "nom": "Rempel",
+      "email": "Karianne.Smith@gmail.com",
+      "password": "password",
+      "telephone": "(704) 594-1551",
+      "profil": 0,
+      "role": "ROLE_ADMIN",
+      "archivage": true
+    },
+    {
+      "id": 1,
+      "penom": "Maddison",
+      "nom": "Wiza",
+      "email": "Gideon_Macejkovic13@hotmail.com",
+      "password": "password",
+      "telephone": "261.225.7859 x2027",
+      "profil": 1,
+      "role": "ROLE_FORMATEUR",
+      "archivage": true
+    },
+    {
+      "id": 2,
+      "penom": "Lelah",
+      "nom": "Quigley",
+      "email": "Novella_Volkman16@yahoo.com",
+      "password": "password",
+      "telephone": "1-752-705-4357",
+      "profil": 1,
+      "role": "ROLE_FORMATEUR",
+      "archivage": false
+    },
+    {
+      "id": 3,
+      "penom": "Teagan",
+      "nom": "Bailey",
+      "email": "Freddie85@gmail.com",
+      "password": "password",
+      "telephone": "679.887.4166 x828",
+      "profil": 1,
+      "role": "ROLE_FORMATEUR",
+      "archivage": true
+    },
+    {
+      "id": 4,
+      "penom": "Landen",
+      "nom": "Ondricka",
+      "email": "Baby50@yahoo.com",
+      "password": "password",
+      "telephone": "672.672.5718 x411",
+      "profil": 1,
+      "role": "ROLE_FORMATEUR",
+      "archivage": true
+    },
+    {
+      "id": 5,
+      "penom": "Glennie",
+      "nom": "Mraz",
+      "email": "Romaine.Moen@hotmail.com",
+      "password": "password",
+      "telephone": "(518) 322-7180 x022",
+      "profil": 1,
+      "role": "ROLE_FORMATEUR",
+      "archivage": true
+    },
+    {
+      "id": 1,
+      "penom": "Bennie",
+      "nom": "Kulas",
+      "email": "Kyle_Rodriguez@hotmail.com",
+      "password": "password",
+      "telephone": "702-979-6710 x440",
+      "profil": 2,
+      "role": "ROLE_APPRENANT",
+      "archivage": false
+    },
+    {
+      "id": 2,
+      "penom": "Axel",
+      "nom": "Hammes",
+      "email": "Krystina15@gmail.com",
+      "password": "password",
+      "telephone": "442.317.5714 x488",
+      "profil": 2,
+      "role": "ROLE_APPRENANT",
+      "archivage": true
+    },
+    {
+      "id": 3,
+      "penom": "Laney",
+      "nom": "Beer",
+      "email": "Jacklyn8@gmail.com",
+      "password": "password",
+      "telephone": "(622) 726-2511 x813",
+      "profil": 2,
+      "role": "ROLE_APPRENANT",
+      "archivage": true
+    },
+    {
+      "id": 4,
+      "penom": "Cristal",
+      "nom": "Lockman",
+      "email": "Icie33@yahoo.com",
+      "password": "password",
+      "telephone": "809-575-7368",
+      "profil": 2,
+      "role": "ROLE_APPRENANT",
+      "archivage": true
+    },
+    {
+      "id": 5,
+      "penom": "Leopold",
+      "nom": "Cartwright",
+      "email": "Jerad.Mayert@yahoo.com",
+      "password": "password",
+      "telephone": "918.947.3933 x9860",
+      "profil": 2,
+      "role": "ROLE_APPRENANT",
+      "archivage": false
+    },
+    {
+      "id": 1,
+      "penom": "Bridgette",
+      "nom": "Veum",
+      "email": "Winnifred6@yahoo.com",
+      "password": "password",
+      "telephone": "990-411-1004 x205",
+      "profil": 3,
+      "role": "ROLE_CM",
+      "archivage": false
+    },
+    {
+      "id": 2,
+      "penom": "Lenna",
+      "nom": "Kulas",
+      "email": "Rosalind_Koepp1@gmail.com",
+      "password": "password",
+      "telephone": "1-929-641-4302",
+      "profil": 3,
+      "role": "ROLE_CM",
+      "archivage": false
+    },
+    {
+      "id": 3,
+      "penom": "Weldon",
+      "nom": "Grant",
+      "email": "Adell_Rolfson@yahoo.com",
+      "password": "password",
+      "telephone": "289.617.0955 x5362",
+      "profil": 3,
+      "role": "ROLE_CM",
+      "archivage": true
+    },
+    {
+      "id": 4,
+      "penom": "Carolanne",
+      "nom": "Vandervort",
+      "email": "Florence89@gmail.com",
+      "password": "password",
+      "telephone": "473-549-4212 x31895",
+      "profil": 3,
+      "role": "ROLE_CM",
+      "archivage": false
+    },
+    {
+      "id": 5,
+      "penom": "Agustin",
+      "nom": "Leannon",
+      "email": "Sandy64@hotmail.com",
+      "password": "password",
+      "telephone": "(855) 407-6495",
+      "profil": 3,
+      "role": "ROLE_CM",
+      "archivage": true
+    }
+  ],
+  "profils": [
+    {
+      "id": 1,
+      "libelle": "ADMIN",
+      "archivage": true
+    },
+    {
+      "id": 2,
+      "libelle": "FORMATEUR",
+      "archivage": false
+    },
+    {
+      "id": 3,
+      "libelle": "APPRENANT",
+      "archivage": false
+    },
+    {
+      "id": 4,
+      "libelle": "CM",
+      "archivage": true
+    }
+  ]
+}

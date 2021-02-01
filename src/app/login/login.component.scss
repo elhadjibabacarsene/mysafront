@@ -1,0 +1,15 @@
+@import "~@angular/material/theming";
+
+$config: mat-typography-config(
+  $font-family:'Roboto, monospace'
+);
+.color-background-login{background-color: #ecf2f6;}
+.color-login{color: #ECF2F6;}
+//.color-login{color: #3E525A}
+.logo-login{width: 100px; height: 100px}
+.font-login{
+  font-family: mat-font-family($config);
+  font-weight: mat-font-weight($config, title);
+  font-size: mat-font-size($config,headline);
+}
+.login-box{border-radius: 20px;}
